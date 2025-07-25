@@ -27,6 +27,18 @@ Store want to create annual sales report for 2022.So that owner of the store can
 
 <img width="1324" height="480" alt="Dashboard image" src="https://github.com/user-attachments/assets/91e90a4c-8a32-4b89-afb3-fc46233951f4" />
 
+## Project Insights
+- March had the highest level of activity throughout the year.
+- Most of the buying was done by women, making up nearly two-thirds.
+- Maharashtra contributed the most compared to other places.
+- Most orders were successfully finished, with very few facing problems.
+- The adult age group had the highest number of buyers, especially among women.
+- Amazon was used more than any other method to place orders.
+- Activity started high early in the year and slowly decreased later.
+- Only a small number of orders were canceled, returned, or refunded (about 8%).
+
+## Final conclusion
+Target Women customers of age group (30-49yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons availableon Amazon,Flipkart and Myntra. 
 
 
 
