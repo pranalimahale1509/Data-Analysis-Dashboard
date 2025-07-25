@@ -15,7 +15,7 @@ What is the most popular sales channel?
 In which quarter of the year did sales consistently decline?
 What percentage of total orders were canceled, returned, or refunded?
 
-Dashboard Interaction
+Dashboard Interaction -<a href="https://github.com/pranalimahale1509/Data-Analysis-Dashboard/blob/main/Dashboard%20image.png">view Dashboard</a>
 
 
 
