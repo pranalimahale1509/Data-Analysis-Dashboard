@@ -5,5 +5,18 @@ Store want to create annual sales report for 2022.So that owner of the store can
 ## Dataset Used
 -<a href="https://github.com/pranalimahale1509/Data-Analysis-Dashboard/blob/main/store%20dataset.xlsx">Dataset</a>
 
+## Questions
+Which month recorded the highest sales amount in 2022?
+What is the percentage split between men and women in terms of sales?
+Which state had the highest sales among the top 5 states listed?
+What is the most common order status?
+Which age and gender group made the most orders?
+What is the most popular sales channel?
+In which quarter of the year did sales consistently decline?
+What percentage of total orders were canceled, returned, or refunded?
+
+Dashboard Interaction
+
+
 
  
